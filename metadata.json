@@ -1,0 +1,7 @@
+{
+  "name": "HealthGuard AI",
+  "description": "An AI-driven public health assistant providing accurate disease awareness, symptom checking, and nearby facility location services using Gemini.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
