@@ -40,10 +40,18 @@ npm run dev
 ```
 
 ## 📸 Screenshots
-🩺 Disclaimer Page
-🏠 Home Page
-🏥 Nearby hospitals
-💊 Google maps integration
+
+### Disclaimer Page
+![Disclaimer Page](screenshots/disclaimer-page.png)
+
+### Home Page
+![Home Page](screenshots/home-page.png)
+
+### Nearby Hospitals
+![Nearby Hospitals](screenshots/nearby-hospitals.png)
+
+### Google Maps Integration
+![Google Maps Integration](screenshots/google-maps-integration.png)
 
 ## 🔮 Future Enhancements
 - Voice interaction
