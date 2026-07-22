@@ -40,7 +40,10 @@ npm run dev
 ```
 
 ## 📸 Screenshots
-
+🩺 Disclaimer Page
+🏠 Home Page
+🏥 Nearby hospitals
+💊 Google maps integration
 
 ## 🔮 Future Enhancements
 - Voice interaction
